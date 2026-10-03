@@ -24,3 +24,12 @@ Ohjeet Claude Codelle tässä repossa.
 - **(1)** Lucky näkyy kartalla. "Kutsu Lucky" löytyy repusta ja taukovalikosta, ja sille tulee oma näppäin ja ohjainnappi.
 - **(14)** Lucky pysyy pois myös uudelta pellolta.
 - **(16b)** Oikean tatin painallus (R3) kutsuu Luckyn.
+
+## Puutteet (sp-lista)
+
+- **Traileri:** yksikielinen, ja sisällön ajantasaisuus on epävarma.
+- **Ruotsi puuttuu kokonaan:** peli, ohjekortti, kuvaus ja tarinakirja.
+- **Tarkistamatta:** tarinakirjan englanninkielinen versio.
+- **Tekemättä:** tekstien täysi oikoluku.
+- **Askon omat tarkistukset:** puhelintesti vaakatasossa, uuden pelaajan ensimmäinen tunti, mobiilipäätös ja ohjainkorjaus omalla ohjaimella.
+- **"Päivitys X":** tarkistettava, tuliko se kokonaan tehdyksi.
