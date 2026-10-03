@@ -16,3 +16,11 @@ Ohjeet Claude Codelle tässä repossa.
 - Kirjoita commit-viestit selkeästi ja kuvaavasti.
 - Kehitä muutokset omassa haarassaan, älä suoraan `main`-haarassa.
 - Päivitä tätä tiedostoa, kun projektin rakenne, komennot tai käytännöt muuttuvat.
+
+## Pelin vaatimukset
+
+### Lucky
+
+- **(1)** Lucky näkyy kartalla. "Kutsu Lucky" löytyy repusta ja taukovalikosta, ja sille tulee oma näppäin ja ohjainnappi.
+- **(14)** Lucky pysyy pois myös uudelta pellolta.
+- **(16b)** Oikean tatin painallus (R3) kutsuu Luckyn.
